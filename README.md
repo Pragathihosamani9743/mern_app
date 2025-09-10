@@ -192,8 +192,7 @@ mern-stack-app/
    ```
 
 ### Live URLs
-- **Frontend & API**: `https://your-app.vercel.app`
-- **API Health Check**: `https://your-app.vercel.app/api/health`
+- `https://stackmernapp.vercel.app`
 
 ---
 
